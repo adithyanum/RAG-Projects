@@ -1,0 +1,14 @@
+# Environments and junk
+rag_env/
+__pycache__/
+.DS_Store
+2026
+
+# Data and Databases 
+my_library/
+agentic_rag/agent_db/
+rag_multi/multi_db/
+rag_obsidian/chroma_db
+rag_pdf/pdf_db
+*.pdf
+*.db
