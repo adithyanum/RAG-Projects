@@ -8,7 +8,7 @@ from langchain_ollama import OllamaEmbeddings
 pdf_path = "./my_library/ilide.info-two-page-story-pr_551d0bfe3037842f0f827abe98ddf52a.pdf"
 print(f'Checking path : {pdf_path}')
 
-#Loading The PDF...
+#Loading The PDF....
 
 print('Loading PDF..')
 loader = PyPDFLoader(pdf_path)
