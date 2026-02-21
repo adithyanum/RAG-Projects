@@ -12,7 +12,7 @@ multi_path = "./my_library"
 print(f"Checking path.. : {multi_path}")
 print('Success!!')
 
-#Loading the directory :
+#Loading the directory  :
 
 print('Loading directory..!')
 loader = PyPDFLoader
